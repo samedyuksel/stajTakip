@@ -1,0 +1,2 @@
+# stajTakip
+School Project
