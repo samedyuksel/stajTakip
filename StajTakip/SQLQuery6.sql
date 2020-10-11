@@ -1,0 +1,1 @@
+﻿INSERT INTO StajForm VALUES('0','0','0','','','0')

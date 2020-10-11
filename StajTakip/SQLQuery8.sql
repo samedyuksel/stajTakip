@@ -1,0 +1,1 @@
+﻿UPDATE StajDefteri SET fID='1',kID='0'

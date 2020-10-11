@@ -1,0 +1,12 @@
+C:\Users\yukse\source\repos\StajTakip\Staj\bin\Debug\Staj.exe.config
+C:\Users\yukse\source\repos\StajTakip\Staj\bin\Debug\Staj.exe
+C:\Users\yukse\source\repos\StajTakip\Staj\bin\Debug\Staj.pdb
+C:\Users\yukse\source\repos\StajTakip\Staj\obj\Debug\Staj.csprojResolveAssemblyReference.cache
+C:\Users\yukse\source\repos\StajTakip\Staj\obj\Debug\Staj.Login.resources
+C:\Users\yukse\source\repos\StajTakip\Staj\obj\Debug\Staj.Properties.Resources.resources
+C:\Users\yukse\source\repos\StajTakip\Staj\obj\Debug\Staj.csproj.GenerateResource.Cache
+C:\Users\yukse\source\repos\StajTakip\Staj\obj\Debug\Staj.csproj.CoreCompileInputs.cache
+C:\Users\yukse\source\repos\StajTakip\Staj\obj\Debug\Staj.exe
+C:\Users\yukse\source\repos\StajTakip\Staj\obj\Debug\Staj.pdb
+C:\Users\yukse\source\repos\StajTakip\Staj\obj\Debug\Staj.Ogrenci.resources
+C:\Users\yukse\source\repos\StajTakip\Staj\obj\Debug\Staj.Firma.resources

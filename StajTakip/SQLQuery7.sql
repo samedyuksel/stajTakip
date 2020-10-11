@@ -1,0 +1,1 @@
+﻿UPDATE StajForm SET Onay='1'

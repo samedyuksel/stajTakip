@@ -1,0 +1,1 @@
+﻿INSERT INTO Kurum VALUES('0','Erciyes Universitesi')
